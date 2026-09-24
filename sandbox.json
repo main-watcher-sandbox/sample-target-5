@@ -8,7 +8,7 @@
   "flaky_test": false,
   "inspect_environment": false,
   "fail_restore": false,
-  "fail_upload": false,
+  "fail_upload": true,
   "hang_upload": false,
   "hang_upload_forever": false,
   "slow_check_minutes": 0
